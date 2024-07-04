@@ -1,0 +1,3366 @@
+{
+  "imageUrl": {
+    "code": 200
+  },
+  "adminLogin": {
+    "mobile": "3213213",
+    "password": "321312",
+    "nickname": "dear",
+    "avatarUrl": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977"
+  },
+  "stuInfor-manag": {
+    "code": 200,
+    "message": "获取学生数据成功",
+    "data": [
+      {
+        "name": "zs",
+        "branches": "第一党支部",
+        "measure": "xndjscnsjl",
+        "createTime": "2023-02-03",
+        "state": 0,
+        "show": true
+      },
+      {
+        "name": "ls",
+        "branches": "第二党支部",
+        "measure": "jl",
+        "createTime": "2023-02-03",
+        "state": 0,
+        "show": true
+      }
+    ]
+  },
+  "activity-details": {
+    "code": 200,
+    "message": "获取活动数据成功",
+    "data": [
+      {
+        "acUid": 0,
+        "pub_uid": "肖超",
+        "pub_phone": 123112421,
+        "regTimeHead": "2023-02-03",
+        "regTimeEnd": "2023-03-03",
+        "pub_img_url": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977",
+        "acTitle": "团日活动1",
+        "acContent": "介绍了党支部的成立",
+        "acTime": "2023-01-01",
+        "acPosition": "十栋",
+        "canJoinNum": 323,
+        "ac_coverImage": [
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLA5WAXicUawVwnM8ic1gjTmVvzZYicxq2QCoxHicibibmRJ1U124a0YMOwWLDuicgEopMUhog/356",
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLA5WAXicUawVwnM8ic1gjTmVvzZYicxq2QCoxHicibibmRJ1U124a0YMOwWLDuicgEopMUhog/356"
+        ]
+      },
+      {
+        "acUid": 1,
+        "pub_uid": "陈掏",
+        "pub_phone": 123112421,
+        "regTimeHead": "2023-02-03",
+        "regTimeEnd": "2023-03-03",
+        "pub_img_url": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977",
+        "acTitle": "团日活动2",
+        "acContent": "介绍了党支部的组成，这本书强调了井冈山精神的时代价值，井冈山精神是中国革命的伟大精神财富，是党的优良传统和宝贵精神财富，也是我们党在革命斗争、建设事业、反腐斗争中积累起来的宝贵经验。通过学习这一精神，我们可以更好地认识党的历史，坚定理想信念，为新时代中国特色社会主义伟大事业不懈奋斗。",
+        "acTime": "2023-02-03",
+        "acPosition": "十栋",
+        "canJoinNum": 55,
+        "ac_coverImage": [
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLA5WAXicUawVwnM8ic1gjTmVvzZYicxq2QCoxHicibibmRJ1U124a0YMOwWLDuicgEopMUhog/356",
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBxn632SLgT0nhAmLKmLlmiciczcok9ICgiaRC2d9UeC8ibVMLavvLPvXz6PuWplMQ9IpY/356"
+        ]
+      },
+      {
+        "acUid": 2,
+        "pub_uid": "袁逸逸",
+        "pub_phone": 12311242,
+        "regTimeHead": "2023-02-03",
+        "regTimeEnd": "2023-03-03",
+        "pub_img_url": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977",
+        "acTitle": "321软件23班团日活动2",
+        "acContent": "介绍了党支部的组成323粉色的衬衫·21233213d",
+        "acTime": "2023-02-03",
+        "acPosition": "十栋、11栋、12栋、13栋、14栋",
+        "canJoinNum": 55,
+        "ac_coverImage": [
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLA5WAXicUawVwnM8ic1gjTmVvzZYicxq2QCoxHicibibmRJ1U124a0YMOwWLDuicgEopMUhog/356",
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBxn632SLgT0nhAmLKmLlmiciczcok9ICgiaRC2d9UeC8ibVMLavvLPvXz6PuWplMQ9IpY/356"
+        ]
+      },
+      {
+        "acUid": 3,
+        "pub_uid": "ww",
+        "regTimeHead": "2023-02-03",
+        "regTimeEnd": "2023-03-03",
+        "pub_img_url": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977",
+        "acTitle": "321软件23班团日活动2",
+        "acContent": "介绍了党支部的组成323粉色的衬衫·21233213d",
+        "acTime": "2023-02-03",
+        "acPosition": "十栋、11栋、12栋、13栋、14栋",
+        "canJoinNum": 55,
+        "ac_coverImage": [
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLA5WAXicUawVwnM8ic1gjTmVvzZYicxq2QCoxHicibibmRJ1U124a0YMOwWLDuicgEopMUhog/356",
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBxn632SLgT0nhAmLKmLlmiciczcok9ICgiaRC2d9UeC8ibVMLavvLPvXz6PuWplMQ9IpY/356"
+        ]
+      }
+    ],
+    "count": 30
+  },
+  "branches": {
+    "code": 200,
+    "message": "获取党支部数据成功",
+    "data": [
+      {
+        "id": 0,
+        "name": "第一党支部",
+        "content": "介绍了党支部的成立",
+        "time": "2023-01-01T12:00:00Z"
+      },
+      {
+        "id": 1,
+        "name": "第二党支部",
+        "content": "介绍了党支部的成立",
+        "time": "2023-01-01T12:00:00Z"
+      },
+      {
+        "id": 2,
+        "name": "第三党支部",
+        "content": "介绍了党支部的成立",
+        "time": "2023-01-01T12:00:00Z"
+      }
+    ]
+  },
+  "delete": {
+    "code": 200,
+    "message": "获取数据成功",
+    "data": {
+      "message": "无法找到信息"
+    }
+  },
+  "clock-result": {
+    "code": 200,
+    "message": "获取打卡数据成功",
+    "data": [
+      {
+        "_id": "655df5649a2770065419dfce",
+        "user_name": "张三",
+        "branches": "第一党支部",
+        "signup_id": "655b398b65482ff0a3f6862d",
+        "user_uid": "65505097f8f6883d03206a58",
+        "clockImage": [
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLA5WAXicUawVwnM8ic1gjTmVvzZYicxq2QCoxHicibibmRJ1U124a0YMOwWLDuicgEopMUhog/356"
+        ],
+        "time": "2023-11-16",
+        "timestamp": 1700223001,
+        "clockDetails": "null",
+        "clockPosition": "10栋",
+        "clockThink": "参与本次活动，让我感受颇深，巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉",
+        "clockTime": "2023-10-10",
+        "clockTitle": "啦啦啦啦啦啦",
+        "user_id": "65505097f8f6883d03206a58",
+        "checkGrade": "90",
+        "evaluate": "活动完成的很不错",
+        "isPass": 1,
+        "partyBranch": "第二党支部"
+      },
+      {
+        "_id": "655df5649a2770065419dfce",
+        "user_name": "元一",
+        "branches": "第二党支部",
+        "signup_id": "655b398b65482ff0a3f6862d",
+        "user_uid": "65505097f8f6883d03206a58",
+        "clockImage": [
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLA5WAXicUawVwnM8ic1gjTmVvzZYicxq2QCoxHicibibmRJ1U124a0YMOwWLDuicgEopMUhog/356"
+        ],
+        "time": "2023-11-16",
+        "timestamp": 1700223001,
+        "clockDetails": "null",
+        "clockPosition": "10栋",
+        "clockThink": "参与本次活动，让我感受颇深，巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉",
+        "clockTime": "2023-10-10",
+        "clockTitle": "啦啦啦啦啦啦",
+        "user_id": "65505097f8f6883d03206a58",
+        "checkGrade": "90",
+        "evaluate": "活动完成的很不错",
+        "isPass": 1,
+        "partyBranch": "第二党支部"
+      },
+      {
+        "_id": "655df5649a2770065419dfce",
+        "user_name": "聂案",
+        "branches": "第二党支部",
+        "signup_id": "655b398b65482ff0a3f6862d",
+        "user_uid": "65505097f8f6883d03206a58",
+        "clockImage": [
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLA5WAXicUawVwnM8ic1gjTmVvzZYicxq2QCoxHicibibmRJ1U124a0YMOwWLDuicgEopMUhog/356"
+        ],
+        "time": "2023-11-16",
+        "timestamp": 1700223001,
+        "clockDetails": "null",
+        "clockPosition": "10栋",
+        "clockThink": "参与本次活动，让我感受颇深，巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉",
+        "clockTime": "2023-10-10",
+        "clockTitle": "啦啦啦啦啦啦",
+        "user_id": "65505097f8f6883d03206a58",
+        "checkGrade": "90",
+        "evaluate": "活动完成的很不错",
+        "isPass": 1,
+        "partyBranch": "第二党支部"
+      }
+    ],
+    "count": 30
+  },
+  "addInformation": {
+    "Arr": []
+  },
+  "userAnalysis": {
+    "code": 200,
+    "message": "获取顶部文章和用户数据成功",
+    "data": {
+      "userCount": 850,
+      "newUserCount": 25,
+      "informasCount": 350,
+      "theSameDayTCount": 12
+    }
+  },
+  "hot-city": {
+    "code": 200,
+    "message": "获取旅游十大人气目的地成功",
+    "data": [
+      {
+        "_id": 1,
+        "count": 4500
+      },
+      {
+        "_id": 2,
+        "count": 3800
+      },
+      {
+        "_id": 3,
+        "count": 3200
+      },
+      {
+        "_id": 4,
+        "count": 2800
+      },
+      {
+        "_id": 5,
+        "count": 2200
+      },
+      {
+        "_id": 6,
+        "count": 1800
+      },
+      {
+        "_id": 7,
+        "count": 1500
+      },
+      {
+        "_id": 8,
+        "count": 1200
+      },
+      {
+        "_id": 9,
+        "count": 900
+      },
+      {
+        "_id": 10,
+        "count": 700
+      }
+    ]
+  },
+  "getGenderRatio": {
+    "code": 200,
+    "message": "获取性别占比数据成功",
+    "data": [
+      {
+        "_id": "male",
+        "count": 300
+      },
+      {
+        "_id": "female",
+        "count": 250
+      }
+    ]
+  },
+  "cityOfInterest": {
+    "code": 200,
+    "message": "获取最感兴趣旅游城市排名成功",
+    "data": [
+      {
+        "_id": 1,
+        "count": 800,
+        "cover_image": {
+          "url": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977"
+        }
+      },
+      {
+        "_id": 2,
+        "count": 720,
+        "cover_image": {
+          "url": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977"
+        }
+      },
+      {
+        "_id": 3,
+        "count": 650,
+        "cover_image": {
+          "url": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977"
+        }
+      },
+      {
+        "_id": 4,
+        "count": 580,
+        "cover_image": {
+          "url": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977"
+        }
+      },
+      {
+        "_id": 5,
+        "count": 510,
+        "cover_image": {
+          "url": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977"
+        }
+      },
+      {
+        "_id": 6,
+        "count": 450,
+        "cover_image": {
+          "url": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977"
+        }
+      },
+      {
+        "_id": 7,
+        "count": 380,
+        "cover_image": {
+          "url": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977"
+        }
+      },
+      {
+        "_id": 8,
+        "count": 310,
+        "cover_image": {
+          "url": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977"
+        }
+      },
+      {
+        "_id": 9,
+        "count": 250,
+        "cover_image": {
+          "url": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977"
+        }
+      },
+      {
+        "_id": 10,
+        "count": 180,
+        "cover_image": {
+          "url": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977"
+        }
+      }
+    ]
+  },
+  "wordCloud": {
+    "code": 200,
+    "message": "获取词云图数据成功",
+    "data": [
+      {
+        "city": "五一工程",
+        "count": 450
+      },
+      {
+        "city": "团智慧",
+        "count": 380
+      },
+      {
+        "city": "党支会",
+        "count": 320
+      },
+      {
+        "city": "胡晓春",
+        "count": 280
+      },
+      {
+        "city": "报告会",
+        "count": 220
+      },
+      {
+        "city": "杭州",
+        "count": 180
+      },
+      {
+        "city": "冬奥志愿服务",
+        "count": 150
+      },
+      {
+        "city": "南京",
+        "count": 120
+      },
+      {
+        "city": "武汉",
+        "count": 90
+      },
+      {
+        "city": "西安",
+        "count": 70
+      },
+      {
+        "city": "厦门",
+        "count": 50
+      },
+      {
+        "city": "青岛",
+        "count": 30
+      },
+      {
+        "city": "苏州",
+        "count": 20
+      },
+      {
+        "city": "天津",
+        "count": 10
+      },
+      {
+        "city": "福州",
+        "count": 5
+      },
+      {
+        "city": "大连",
+        "count": 3
+      },
+      {
+        "city": "沈阳",
+        "count": 2
+      },
+      {
+        "city": "济南",
+        "count": 1
+      },
+      {
+        "city": "长沙",
+        "count": 1
+      },
+      {
+        "city": "宁波",
+        "count": 1
+      }
+    ]
+  },
+  "stuInfor-details": {
+    "code": 200,
+    "message": "获取活动数据成功",
+    "data": [
+      {
+        "acUid": 0,
+        "pub_uid": "肖超",
+        "pub_phone": 123112421,
+        "regTimeHead": "2023-02-03",
+        "regTimeEnd": "2023-03-03",
+        "pub_img_url": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977",
+        "acTitle": "团日活动1",
+        "acContent": "介绍了党支部的成立",
+        "acTime": "2023-01-01",
+        "acPosition": "十栋",
+        "canJoinNum": 323,
+        "ac_coverImage": [
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLA5WAXicUawVwnM8ic1gjTmVvzZYicxq2QCoxHicibibmRJ1U124a0YMOwWLDuicgEopMUhog/356",
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLA5WAXicUawVwnM8ic1gjTmVvzZYicxq2QCoxHicibibmRJ1U124a0YMOwWLDuicgEopMUhog/356"
+        ]
+      },
+      {
+        "acUid": 1,
+        "pub_uid": "谭馨洁",
+        "pub_phone": 123112421,
+        "regTimeHead": "2023-02-03",
+        "regTimeEnd": "2023-03-03",
+        "pub_img_url": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977",
+        "acTitle": "团日活动2",
+        "acContent": "介绍了党支部的组成，这本书强调了井冈山精神的时代价值，井冈山精神是中国革命的伟大精神财富，是党的优良传统和宝贵精神财富，也是我们党在革命斗争、建设事业、反腐斗争中积累起来的宝贵经验。通过学习这一精神，我们可以更好地认识党的历史，坚定理想信念，为新时代中国特色社会主义伟大事业不懈奋斗。",
+        "acTime": "2023-02-03",
+        "acPosition": "十栋",
+        "canJoinNum": 55,
+        "ac_coverImage": [
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLA5WAXicUawVwnM8ic1gjTmVvzZYicxq2QCoxHicibibmRJ1U124a0YMOwWLDuicgEopMUhog/356",
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBxn632SLgT0nhAmLKmLlmiciczcok9ICgiaRC2d9UeC8ibVMLavvLPvXz6PuWplMQ9IpY/356"
+        ]
+      },
+      {
+        "acUid": 2,
+        "pub_uid": "袁逸逸",
+        "pub_phone": 12311242,
+        "regTimeHead": "2023-02-03",
+        "regTimeEnd": "2023-03-03",
+        "pub_img_url": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977",
+        "acTitle": "321软件23班团日活动2",
+        "acContent": "介绍了党支部的组成323粉色的衬衫·21233213d",
+        "acTime": "2023-02-03",
+        "acPosition": "十栋、11栋、12栋、13栋、14栋",
+        "canJoinNum": 55,
+        "ac_coverImage": [
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLA5WAXicUawVwnM8ic1gjTmVvzZYicxq2QCoxHicibibmRJ1U124a0YMOwWLDuicgEopMUhog/356",
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBxn632SLgT0nhAmLKmLlmiciczcok9ICgiaRC2d9UeC8ibVMLavvLPvXz6PuWplMQ9IpY/356"
+        ]
+      },
+      {
+        "acUid": 3,
+        "pub_uid": "ww",
+        "regTimeHead": "2023-02-03",
+        "regTimeEnd": "2023-03-03",
+        "pub_img_url": "https://thirdqq.qlogo.cn/g?b=sdk&k=UQflgu5mJIpcicB8vn76vAQ&kti=Y67MaAAAAAI&s=140&t=1559370977",
+        "acTitle": "321软件23班团日活动2",
+        "acContent": "介绍了党支部的组成323粉色的衬衫·21233213d",
+        "acTime": "2023-02-03",
+        "acPosition": "十栋、11栋、12栋、13栋、14栋",
+        "canJoinNum": 55,
+        "ac_coverImage": [
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLA5WAXicUawVwnM8ic1gjTmVvzZYicxq2QCoxHicibibmRJ1U124a0YMOwWLDuicgEopMUhog/356",
+          "https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBxn632SLgT0nhAmLKmLlmiciczcok9ICgiaRC2d9UeC8ibVMLavvLPvXz6PuWplMQ9IpY/356"
+        ]
+      }
+    ],
+    "count": 30
+  },
+  "gainRecomForum": {
+    "msg": "SUCCESS",
+    "data": [
+      {
+        "_id": "65b39e8b53c7c006952f8760",
+        "imageUrl": "https://image.baidu.com/search/detail?ct=503316480&z=&tn=baiduimagedetail&ipn=d&word=%E7%88%B1%E5%9B%BD%E6%96%B0%E5%BE%81%E7%A8%8B&step_word=&lid=8813502874495814212&ie=utf-8&in=&cl=2&lm=-1&st=-1&hd=&latest=&copyright=&cs=1322382034,413232830&os=1458926220,2118871114&simid=1322382034,413232830&pn=7&rn=1&di=7264239678495129601&ln=1670&fr=&fmq=1706270335552_R&fm=result&ic=&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&is=0,0&istype=2&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=1e&objurl=https%3A%2F%2Fpreview.21cnjy.com%2Ffiles%2F4f%2Fda%2F4fdae9728c074c8cdfc888268c2b363a.png&rpstart=0&rpnum=0&adpicid=0&nojc=undefined&dyTabStr=MCwyLDEsMyw0LDUsNiw3LDgsOQ%3D%3D&ctd=1706270340492^3_1447X701%1",
+        "forum_id": "65b0dd7fe3e2f515bd4c99ba",
+        "time": "2024-01-26",
+        "articleTime": "2024--01-24",
+        "nickname": "用户_8911"
+      },
+      {
+        "_id": "65b39e4953c7c006952f875e",
+        "imageUrl": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E4%B8%BA%E4%B8%AD%E5%8D%8E%E4%B9%8B%E5%B4%9B%E8%B5%B7%E8%80%8C%E8%AF%BB%E4%B9%A6&step_word=&hs=0&pn=27&spn=0&di=7264239678495129601&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=2757082296%2C1444950264&os=4015648578%2C3255100024&simid=3395775937%2C4293930569&adpicid=0&lpn=0&ln=1460&fr=&fmq=1706270267844_R&fm=result&ic=&s=undefined&hd=&latest=&copyright=&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fpics7.baidu.com%2Ffeed%2Fb58f8c5494eef01f0fca88928f6ad523bd317d21.jpeg%3Ftoken%3Dc92f9eac2db922969012db1d6be49c68%26s%3DD018AA769722CF4F5A17206E0300C078&fromurl=ippr_z2C%24qAzdH3FAzdH3Fkwt3twiw5_z%26e3Bkwt17_z%26e3Bv54AzdH3Ff%3Ft1%3D8mma88mncaa9m8cm08b%26ou6%3Dfrt1j6%26u56%3Drv&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&dyTabStr=MCwyLDEsMyw0LDUsNiw3LDgsOQ%3D%3D&lid=8813086069406468972",
+        "forum_id": "6566e41ceb1cc009728d6dc2",
+        "time": "2024-01-26",
+        "articleTime": "2023--12--30",
+        "nickname": "用户_6769"
+      },
+      {
+        "_id": "65b39e2053c7c006952f875c",
+        "imageUrl": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E7%88%B1%E5%9B%BD%E7%88%B1%E5%85%9A%EF%BC%8C%E6%88%90%E7%BB%A9%E7%90%86%E6%83%B3&step_word=&hs=0&pn=20&spn=0&di=41943041&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=101303859%2C1868562662&os=4055734438%2C2736457317&simid=3168571562%2C3930370066&adpicid=0&lpn=0&ln=1301&fr=&fmq=1706268637074_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=10&oriquery=&objurl=https%3A%2F%2Fb0.bdstatic.com%2Fc607be1359bccceed5da5d53a142061a.jpg%40h_1280&fromurl=ipprf_z2C%24qAzdH3FAzdH3F4k1_z%26e3Bkwt17_z%26e3Bv54AzdH3Fgjofrw2jAzdH3F1wpwAzdH3F1pswg1tg2otfj%3Fgt1%3D1p_9089bama9lnmncmdb9m%26f576vjF654%3Di54jrw2j&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&dyTabStr=MCwyLDEsMyw0LDUsNiw3LDgsOQ%3D%3D&lid=8455454038078791839",
+        "forum_id": "6562f6276907df8cd79dc3aa",
+        "time": "2024-01-26",
+        "articleTime": "2023--11-26",
+        "nickname": "用户_3301"
+      },
+      {
+        "_id": "65b39db053c7c006952f875a",
+        "imageUrl": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E7%88%B1%E5%9B%BD%E7%88%B1%E5%85%9A%EF%BC%8C%E6%88%90%E7%BB%A9%E7%90%86%E6%83%B3&step_word=&hs=0&pn=14&spn=0&di=41943041&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=2808450410%2C3153462492&os=4123091324%2C2835364443&simid=4089013147%2C456992676&adpicid=0&lpn=0&ln=1301&fr=&fmq=1706268637074_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=10&oriquery=&objurl=https%3A%2F%2Fb0.bdstatic.com%2Ff981eb2712baad25f6c325acc47cbd32.jpg%40h_1280&fromurl=ipprf_z2C%24qAzdH3FAzdH3F4k1_z%26e3Bkwt17_z%26e3Bv54AzdH3Fgjofrw2jAzdH3F1wpwAzdH3F1pswg1tg2otfj%3Fgt1%3D1p_n0cnn0amadda8dlbdma%26f576vjF654%3Di54jrw2j&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&dyTabStr=MCwyLDEsMyw0LDUsNiw3LDgsOQ%3D%3D&lid=8455454038078791839",
+        "forum_id": "6562e3c5ca3aff44e3eece00",
+        "time": "2024-01-26",
+        "articleTime": "2023--11-26",
+        "nickname": "用户_3301"
+      }
+    ],
+    "error": null,
+    "extra": null
+  },
+  "forumManaGement": {
+    "msg": "SUCCESS",
+    "data": {
+      "data": [
+        {
+          "_id": "65b0dd7fe3e2f515bd4c99ba",
+          "title": "爱国",
+          "content": "爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国爱国",
+          "cover_image": {
+            "url": "https://yes-1317567548.cos.accelerate.myqcloud.com/img%26vdo/%201706089847408-2929832.jpg",
+            "width": 1280,
+            "height": 640
+          },
+          "image": [
+            "https://yes-1317567548.cos.accelerate.myqcloud.com/img%26vdo/%201706089847408-2929832.jpg"
+          ],
+          "videoUrl": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "fileType": "image",
+          "college": "电子与信息工程学院",
+          "branch": "计算机第一党支部",
+          "time": "2024--01-24",
+          "author_data": [
+            {
+              "avatarUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202202%2F23%2F20220223140955_5cdc6.thumb.1000_0.jpg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1694438787&t=ab85cb48fe579b08a383ea803b05fed4",
+              "nickname": "用户_8911"
+            }
+          ]
+        },
+        {
+          "_id": "6562f6276907df8cd79dc3aa",
+          "title": "人民日报--党的百年征程",
+          "content": "为引导学员深入学习贯彻习近平新时代中国特色社会主义思想，将党的二十大精神转化为青年学生坚定理想、锤炼党性、推动学习、指导实践的强大力量，2023年11月23日，第38期入党积极分子培训班忆峥嵘岁月，看今朝辉煌“时空对话”比赛在大学生活动中心101开展。第38期入党积极分子培训班班主任石波明、经济学系辅导员闫晓彤、会计学系学生第二党支部副书记林科宇、会计学系学生第三党支部副书记徐潇航、工商管理系学生第一党支部副书记张如意、艺术与传播系学生党支部副书记李欣谕、外语系学生党支部副书记黄鑫、数字经济系学生党支部副书记冯娜、工程管理系学生党支部副书记姜雅祺出席活动并担任比赛评委。第38期入党积极分子培训班全体学员现场观摩学习惯",
+          "cover_image": {
+            "url": "https://img1.baidu.com/it/u=978664850,173455347&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=281",
+            "width": 500,
+            "height": 281
+          },
+          "image": [],
+          "videoUrl": {
+            "url": "https://yes-1317567548.cos.ap-nanjing.myqcloud.com/img%26vdo/QQ%E8%A7%86%E9%A2%9120231126151654  .mp4",
+            "width": 200,
+            "height": 300
+          },
+          "fileType": "video",
+          "college": "电子与信息工程学院",
+          "branch": "计算机第一党支部",
+          "time": "2023--11-26",
+          "author_data": [
+            {
+              "avatarUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202202%2F23%2F20220223140955_5cdc6.thumb.1000_0.jpg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1694438787&t=ab85cb48fe579b08a383ea803b05fed4",
+              "nickname": "用户_3301"
+            }
+          ]
+        },
+        {
+          "_id": "6562e3c5ca3aff44e3eece00",
+          "title": "第38期入党积极分子培训",
+          "content": "为引导学员深入学习贯彻习近平新时代中国特色社会主义思想，将党的二十大精神转化为青年学生坚定理想、锤炼党性、推动学习、指导实践的强大力量，2023年11月23日，第38期入党积极分子培训班忆峥嵘岁月，看今朝辉煌“时空对话”比赛在大学生活动中心101开展。第38期入党积极分子培训班班主任石波明、经济学系辅导员闫晓彤、会计学系学生第二党支部副书记林科宇、会计学系学生第三党支部副书记徐潇航、工商管理系学生第一党支部副书记张如意、艺术与传播系学生党支部副书记李欣谕、外语系学生党支部副书记黄鑫、数字经济系学生党支部副书记冯娜、工程管理系学生党支部副书记姜雅祺出席活动并担任比赛评委。第38期入党积极分子培训班全体学员现场观摩学习惯",
+          "cover_image": {
+            "url": "https://img1.baidu.com/it/u=978664850,173455347&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=281",
+            "width": 500,
+            "height": 281
+          },
+          "image": [
+            "https://img1.baidu.com/it/u=978664850,173455347&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=281"
+          ],
+          "videoUrl": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "fileType": "image",
+          "college": "电子与信息工程学院",
+          "branch": "计算机第一党支部",
+          "time": "2023--11-26",
+          "author_data": [
+            {
+              "avatarUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202202%2F23%2F20220223140955_5cdc6.thumb.1000_0.jpg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1694438787&t=ab85cb48fe579b08a383ea803b05fed4",
+              "nickname": "用户_3301"
+            }
+          ]
+        },
+        {
+          "_id": "6566e41ceb1cc009728d6dc2",
+          "title": "为中华之崛起读书",
+          "content": "为引导学员深入学习贯彻习近平新时代中国特色社会主义思想，将党的二十大精神转化为青年学生坚定理想、锤炼党性、推动学习、指导实践的强大力量，2023年11月23日，第38期入党积极分子培训班忆峥嵘岁月，看今朝辉煌“时空对话”比赛在大学生活动中心101开展。第38期入党积极分子培训班班主任石波明、经济学系辅导员闫晓彤、会计学系学生第二党支部副书记林科宇、会计学系学生第三党支部副书记徐潇航、工商管理系学生第一党支部副书记张如意、艺术与传播系学生党支部副书记李欣谕、外语系学生党支部副书记黄鑫、数字经济系学生党支部副书记冯娜、工程管理系学生党支部副书记姜雅祺出席活动并担任比赛评委。第38期入党积极分子培训班全体学员现场观摩学习惯",
+          "cover_image": {
+            "url": "https://img1.baidu.com/it/u=978664850,173455347&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=281",
+            "width": 500,
+            "height": 281
+          },
+          "image": [
+            "https://img1.baidu.com/it/u=978664850,173455347&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=281"
+          ],
+          "videoUrl": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "fileType": "image",
+          "college": "电子与信息工程学院",
+          "branch": "计算机第三党支部",
+          "time": "2023--12--30",
+          "author_data": [
+            {
+              "avatarUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202202%2F23%2F20220223140955_5cdc6.thumb.1000_0.jpg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1694438787&t=ab85cb48fe579b08a383ea803b05fed4",
+              "nickname": "用户_6769"
+            }
+          ]
+        }
+      ],
+      "count": 4
+    },
+    "error": null,
+    "extra": null
+  },
+  "uploadFourForum": {
+    "imageUrl": "",
+    "informa_id": "65b0dd7fe3e2f515bd4c99ba"
+  },
+  "modifyRecomForum": {
+    "_id": "65b39e8b53c7c006952f8760",
+    "imageUrl": "https://image.baidu.com/search/detail?ct=503316480&z=&tn=baiduimagedetail&ipn=d&word=%E7%88%B1%E5%9B%BD%E6%96%B0%E5%BE%81%E7%A8%8B&step_word=&lid=8813502874495814212&ie=utf-8&in=&cl=2&lm=-1&st=-1&hd=&latest=&copyright=&cs=1322382034,413232830&os=1458926220,2118871114&simid=1322382034,413232830&pn=7&rn=1&di=7264239678495129601&ln=1670&fr=&fmq=1706270335552_R&fm=result&ic=&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&is=0,0&istype=2&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=1e&objurl=https%3A%2F%2Fpreview.21cnjy.com%2Ffiles%2F4f%2Fda%2F4fdae9728c074c8cdfc888268c2b363a.png&rpstart=0&rpnum=0&adpicid=0&nojc=undefined&dyTabStr=MCwyLDEsMyw0LDUsNiw3LDgsOQ%3D%3D&ctd=1706270340492^3_1447X701%1",
+    "informa_id": ""
+  },
+  "deleteRecomForum": {
+    "msg": "SUCCESS",
+    "data": null,
+    "error": null,
+    "extra": null
+  },
+  "imageUpload": {},
+  "dailyRecom": {
+    "imageUrl": "",
+    "title": "",
+    "college": ""
+  },
+  "gainDailyRecom": {
+    "msg": "SUCCESS",
+    "data": {
+      "data": [
+        {
+          "_id": "65b39bf3bde5bfe0d2c6b52b",
+          "imageUrl": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E7%88%B1%E5%9B%BD%E7%88%B1%E5%85%9A%EF%BC%8C%E6%88%90%E7%BB%A9%E7%90%86%E6%83%B3&step_word=&hs=0&pn=199&spn=0&di=41943041&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3408258564%2C38878247&os=3902107234%2C3394489843&simid=4230581375%2C637413128&adpicid=0&lpn=0&ln=1301&fr=&fmq=1706268637074_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&oriquery=&objurl=https%3A%2F%2Fb0.bdstatic.com%2F029aea67816f05b5aee72966b0dd3d33.jpg%40h_1280&gsm=f0&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&dyTabStr=MCwyLDEsMyw0LDUsNiw3LDgsOQ%3D%3D&lid=8455454038078791839",
+          "title": "爱国爱党，成绩理想",
+          "college": "电子与信息工程学院",
+          "time": "2024-01-26"
+        },
+        {
+          "_id": "65a3e6378a5c3f1891c99402",
+          "imageUrl": "https://yes-1317567548.cos.accelerate.myqcloud.com/img%26vdo/%201705240094033.48a3425644973abea460a6fc285ca0b%2Cjpg",
+          "title": "心中有党，成绩理想",
+          "college": "电子与信息工程学院",
+          "time": "2024-01-14"
+        }
+      ],
+      "count": 2
+    },
+    "error": null,
+    "extra": null
+  },
+  "deleteDailyRecom": {
+    "msg": "SUCCESS",
+    "data": null,
+    "error": null,
+    "extra": null
+  },
+  "allNewView": {
+    "msg": "SUCCESS",
+    "data": [
+      {
+        "cover_image": {
+          "url": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD&step_word=&hs=0&pn=8&spn=0&di=7264239678495129601&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3488935392%2C2731661034&os=2875349372%2C3234042445&simid=4258608627%2C622350492&adpicid=0&lpn=0&ln=1251&fr=&fmq=1705663025230_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fwww.xuexi.cn%2Flgpage%2Fimages%2F6b20efaa4f94e8fe200c936e834939a6.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bx7jxt_z%26e3BvgAzdH3Fs2rw2jAzdH3F1jpwtsAzdH3Ftg1jx_z%26e3Bip4s%3Ft1%3D8bnnb8c0ndml0l88c90n&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&lid=10304476488453047083",
+          "width": 16,
+          "height": 16
+        },
+        "videoUrl": {
+          "url": "",
+          "width": 0,
+          "height": 0
+        },
+        "fileType": "image",
+        "_id": "65aa5b99cab20817edaad9b2",
+        "newTitle": "学习强国",
+        "newContent": "中国航天事业起始于1956年，于1970年4月24日发射第一颗人造地球卫星，中国是继苏联、美国、法国、日本之后第5个能独立发射人造卫星的国家",
+        "newTime": "2023-2-22",
+        "source": "来源百度百科",
+        "writer": "未知",
+        "image": [
+          "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD&step_word=&hs=0&pn=8&spn=0&di=7264239678495129601&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3488935392%2C2731661034&os=2875349372%2C3234042445&simid=4258608627%2C622350492&adpicid=0&lpn=0&ln=1251&fr=&fmq=1705663025230_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fwww.xuexi.cn%2Flgpage%2Fimages%2F6b20efaa4f94e8fe200c936e834939a6.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bx7jxt_z%26e3BvgAzdH3Fs2rw2jAzdH3F1jpwtsAzdH3Ftg1jx_z%26e3Bip4s%3Ft1%3D8bnnb8c0ndml0l88c90n&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&lid=10304476488453047083"
+        ],
+        "views": 5,
+        "__v": 0
+      },
+      {
+        "cover_image": {
+          "url": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD&step_word=&hs=0&pn=8&spn=0&di=7264239678495129601&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3488935392%2C2731661034&os=2875349372%2C3234042445&simid=4258608627%2C622350492&adpicid=0&lpn=0&ln=1251&fr=&fmq=1705663025230_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fwww.xuexi.cn%2Flgpage%2Fimages%2F6b20efaa4f94e8fe200c936e834939a6.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bx7jxt_z%26e3BvgAzdH3Fs2rw2jAzdH3F1jpwtsAzdH3Ftg1jx_z%26e3Bip4s%3Ft1%3D8bnnb8c0ndml0l88c90n&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&lid=10304476488453047083",
+          "width": 16,
+          "height": 16
+        },
+        "videoUrl": {
+          "url": "",
+          "width": 0,
+          "height": 0
+        },
+        "fileType": "image",
+        "_id": "65aa5b28d5111cbbecc938a3",
+        "newTitle": "学习强国",
+        "newContent": "中国航天事业起始于1956年，于1970年4月24日发射第一颗人造地球卫星，中国是继苏联、美国、法国、日本之后第5个能独立发射人造卫星的国家",
+        "newTime": "2024-1-20",
+        "source": "来源百度百科",
+        "writer": "未知",
+        "image": [
+          "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD&step_word=&hs=0&pn=8&spn=0&di=7264239678495129601&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3488935392%2C2731661034&os=2875349372%2C3234042445&simid=4258608627%2C622350492&adpicid=0&lpn=0&ln=1251&fr=&fmq=1705663025230_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fwww.xuexi.cn%2Flgpage%2Fimages%2F6b20efaa4f94e8fe200c936e834939a6.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bx7jxt_z%26e3BvgAzdH3Fs2rw2jAzdH3F1jpwtsAzdH3Ftg1jx_z%26e3Bip4s%3Ft1%3D8bnnb8c0ndml0l88c90n&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&lid=10304476488453047083"
+        ],
+        "views": 2,
+        "__v": 0
+      },
+      {
+        "cover_image": {
+          "url": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD&step_word=&hs=0&pn=8&spn=0&di=7264239678495129601&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3488935392%2C2731661034&os=2875349372%2C3234042445&simid=4258608627%2C622350492&adpicid=0&lpn=0&ln=1251&fr=&fmq=1705663025230_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fwww.xuexi.cn%2Flgpage%2Fimages%2F6b20efaa4f94e8fe200c936e834939a6.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bx7jxt_z%26e3BvgAzdH3Fs2rw2jAzdH3F1jpwtsAzdH3Ftg1jx_z%26e3Bip4s%3Ft1%3D8bnnb8c0ndml0l88c90n&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&lid=10304476488453047083",
+          "width": 16,
+          "height": 16
+        },
+        "videoUrl": {
+          "url": "",
+          "width": 0,
+          "height": 0
+        },
+        "fileType": "image",
+        "_id": "65aa5a84d5111cbbecc9389f",
+        "newTitle": "学习强国1111",
+        "newContent": "中国航天事业起始于1956年，于1970年4月24日发射第一颗人造地球卫星，中国是继苏联、美国、法国、日本之后第5个能独立发射人造卫星的国家",
+        "newTime": "2024-1-19",
+        "source": "来源百度百科",
+        "writer": "未知",
+        "image": [
+          "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD&step_word=&hs=0&pn=8&spn=0&di=7264239678495129601&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3488935392%2C2731661034&os=2875349372%2C3234042445&simid=4258608627%2C622350492&adpicid=0&lpn=0&ln=1251&fr=&fmq=1705663025230_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fwww.xuexi.cn%2Flgpage%2Fimages%2F6b20efaa4f94e8fe200c936e834939a6.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bx7jxt_z%26e3BvgAzdH3Fs2rw2jAzdH3F1jpwtsAzdH3Ftg1jx_z%26e3Bip4s%3Ft1%3D8bnnb8c0ndml0l88c90n&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&lid=10304476488453047083"
+        ],
+        "views": 0,
+        "__v": 0
+      },
+      {
+        "cover_image": {
+          "url": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD&step_word=&hs=0&pn=8&spn=0&di=7264239678495129601&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3488935392%2C2731661034&os=2875349372%2C3234042445&simid=4258608627%2C622350492&adpicid=0&lpn=0&ln=1251&fr=&fmq=1705663025230_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fwww.xuexi.cn%2Flgpage%2Fimages%2F6b20efaa4f94e8fe200c936e834939a6.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bx7jxt_z%26e3BvgAzdH3Fs2rw2jAzdH3F1jpwtsAzdH3Ftg1jx_z%26e3Bip4s%3Ft1%3D8bnnb8c0ndml0l88c90n&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&lid=10304476488453047083",
+          "width": 16,
+          "height": 16
+        },
+        "videoUrl": {
+          "url": "",
+          "width": 0,
+          "height": 0
+        },
+        "fileType": "image",
+        "_id": "65aa5b83cab20817edaad9af",
+        "newTitle": "学习强国",
+        "newContent": "中国航天事业起始于1956年，于1970年4月24日发射第一颗人造地球卫星，中国是继苏联、美国、法国、日本之后第5个能独立发射人造卫星的国家",
+        "newTime": "2024-1-22",
+        "source": "来源百度百科",
+        "writer": "未知",
+        "image": [
+          "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD&step_word=&hs=0&pn=8&spn=0&di=7264239678495129601&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3488935392%2C2731661034&os=2875349372%2C3234042445&simid=4258608627%2C622350492&adpicid=0&lpn=0&ln=1251&fr=&fmq=1705663025230_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fwww.xuexi.cn%2Flgpage%2Fimages%2F6b20efaa4f94e8fe200c936e834939a6.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bx7jxt_z%26e3BvgAzdH3Fs2rw2jAzdH3F1jpwtsAzdH3Ftg1jx_z%26e3Bip4s%3Ft1%3D8bnnb8c0ndml0l88c90n&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&lid=10304476488453047083"
+        ],
+        "views": 0,
+        "__v": 0
+      },
+      {
+        "cover_image": {
+          "url": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD&step_word=&hs=0&pn=8&spn=0&di=7264239678495129601&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3488935392%2C2731661034&os=2875349372%2C3234042445&simid=4258608627%2C622350492&adpicid=0&lpn=0&ln=1251&fr=&fmq=1705663025230_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fwww.xuexi.cn%2Flgpage%2Fimages%2F6b20efaa4f94e8fe200c936e834939a6.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bx7jxt_z%26e3BvgAzdH3Fs2rw2jAzdH3F1jpwtsAzdH3Ftg1jx_z%26e3Bip4s%3Ft1%3D8bnnb8c0ndml0l88c90n&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&lid=10304476488453047083",
+          "width": 16,
+          "height": 16
+        },
+        "videoUrl": {
+          "url": "",
+          "width": 0,
+          "height": 0
+        },
+        "_id": "65b35fe366111995165ad1d6",
+        "newTitle": "学习强国",
+        "newContent": "中国航天事业起始于1956年，于1970年4月24日发射第一颗人造地球卫星，中国是继苏联、美国、法国、日本之后第5个能独立发射人造卫星的国家",
+        "newTime": "2023-2-22",
+        "source": "来源百度百科",
+        "writer": "未知",
+        "fileType": "image",
+        "image": [
+          "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD&step_word=&hs=0&pn=8&spn=0&di=7264239678495129601&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3488935392%2C2731661034&os=2875349372%2C3234042445&simid=4258608627%2C622350492&adpicid=0&lpn=0&ln=1251&fr=&fmq=1705663025230_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fwww.xuexi.cn%2Flgpage%2Fimages%2F6b20efaa4f94e8fe200c936e834939a6.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bx7jxt_z%26e3BvgAzdH3Fs2rw2jAzdH3F1jpwtsAzdH3Ftg1jx_z%26e3Bip4s%3Ft1%3D8bnnb8c0ndml0l88c90n&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&lid=10304476488453047083"
+        ],
+        "views": 0,
+        "__v": 0
+      }
+    ],
+    "error": null,
+    "extra": null
+  },
+  "addNew": {
+    "msg": "SUCCESS",
+    "data": null,
+    "error": null,
+    "extra": null
+  },
+  "addNew-video": {
+    "msg": "SUCCESS",
+    "data": null,
+    "error": null,
+    "extra": null
+  },
+  "deleteNew": {
+    "msg": "SUCCESS",
+    "data": null,
+    "error": null,
+    "extra": null
+  },
+  "changeNew": {
+    "image": [
+      {
+        "name": "CRnall_20240113_045457631.jpg",
+        "percentage": 100,
+        "status": "success",
+        "size": 4181561,
+        "raw": {
+          "uid": 1707376072329
+        },
+        "uid": 1707376072329,
+        "url": "blob:http://localhost:5173/90fc477f-8d15-4757-80ea-f8e0a0be04ae",
+        "response": {}
+      }
+    ]
+  },
+  "findNews": {
+    "msg": "SUCCESS",
+    "data": [
+      {
+        "_id": "65b35fe366111995165ad1d6",
+        "newTitle": "学习强国",
+        "newContent": "中国航天事业起始于1956年，于1970年4月24日发射第一颗人造地球卫星，中国是继苏联、美国、法国、日本之后第5个能独立发射人造卫星的国家",
+        "newTime": "2023-2-22",
+        "source": "来源百度百科",
+        "writer": "未知",
+        "fileType": "image",
+        "cover_image": {
+          "url": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD&step_word=&hs=0&pn=8&spn=0&di=7264239678495129601&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3488935392%2C2731661034&os=2875349372%2C3234042445&simid=4258608627%2C622350492&adpicid=0&lpn=0&ln=1251&fr=&fmq=1705663025230_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fwww.xuexi.cn%2Flgpage%2Fimages%2F6b20efaa4f94e8fe200c936e834939a6.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bx7jxt_z%26e3BvgAzdH3Fs2rw2jAzdH3F1jpwtsAzdH3Ftg1jx_z%26e3Bip4s%3Ft1%3D8bnnb8c0ndml0l88c90n&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&lid=10304476488453047083",
+          "width": 16,
+          "height": 16
+        },
+        "image": [
+          "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD&step_word=&hs=0&pn=8&spn=0&di=7264239678495129601&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3488935392%2C2731661034&os=2875349372%2C3234042445&simid=4258608627%2C622350492&adpicid=0&lpn=0&ln=1251&fr=&fmq=1705663025230_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fwww.xuexi.cn%2Flgpage%2Fimages%2F6b20efaa4f94e8fe200c936e834939a6.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bx7jxt_z%26e3BvgAzdH3Fs2rw2jAzdH3F1jpwtsAzdH3Ftg1jx_z%26e3Bip4s%3Ft1%3D8bnnb8c0ndml0l88c90n&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&lid=10304476488453047083"
+        ],
+        "videoUrl": {
+          "url": "",
+          "width": 0,
+          "height": 0
+        },
+        "views": 0,
+        "__v": 0
+      }
+    ],
+    "error": null,
+    "extra": null
+  },
+  "changeNewVideo": {
+    "msg": "SUCCESS",
+    "data": {
+      "cover_image": {
+        "url": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD&step_word=&hs=0&pn=8&spn=0&di=7264239678495129601&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3488935392%2C2731661034&os=2875349372%2C3234042445&simid=4258608627%2C622350492&adpicid=0&lpn=0&ln=1251&fr=&fmq=1705663025230_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fwww.xuexi.cn%2Flgpage%2Fimages%2F6b20efaa4f94e8fe200c936e834939a6.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bx7jxt_z%26e3BvgAzdH3Fs2rw2jAzdH3F1jpwtsAzdH3Ftg1jx_z%26e3Bip4s%3Ft1%3D8bnnb8c0ndml0l88c90n&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&lid=10304476488453047083",
+        "width": 16,
+        "height": 16
+      },
+      "videoUrl": {
+        "url": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD&step_word=&hs=0&pn=8&spn=0&di=7264239678495129601&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3488935392%2C2731661034&os=2875349372%2C3234042445&simid=4258608627%2C622350492&adpicid=0&lpn=0&ln=1251&fr=&fmq=1705663025230_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fwww.xuexi.cn%2Flgpage%2Fimages%2F6b20efaa4f94e8fe200c936e834939a6.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bx7jxt_z%26e3BvgAzdH3Fs2rw2jAzdH3F1jpwtsAzdH3Ftg1jx_z%26e3Bip4s%3Ft1%3D8bnnb8c0ndml0l88c90n&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&lid=10304476488453047083",
+        "width": 200,
+        "height": 300
+      },
+      "fileType": "image",
+      "_id": "65aa5a84d5111cbbecc9389f",
+      "newTitle": "学习强国1111",
+      "newContent": "中国航天事业起始于1956年，于1970年4月24日发射第一颗人造地球卫星，中国是继苏联、美国、法国、日本之后第5个能独立发射人造卫星的国家",
+      "newTime": "2024-1-19",
+      "source": "来源百度百科",
+      "writer": "未知",
+      "image": [],
+      "views": 0,
+      "__v": 0
+    },
+    "error": null,
+    "extra": null
+  },
+  "getAllStudent-back": {
+    "msg": "SUCCESS",
+    "data": [
+      {
+        "_id": "65671ceddf048ea33bd244e4",
+        "studentId": "2209105057",
+        "student_uid": "1695562533053",
+        "idCard": "",
+        "username": "周佳欣",
+        "avatarUrl": "file:///E:/Saved Pictures/证件照.jpg",
+        "birthday": "",
+        "age": "",
+        "partyCommittee": "",
+        "partyBranch": "计算机第一党支部",
+        "college": "电子与信息工程学院",
+        "class": "22软件2班",
+        "nativePlace": "",
+        "nation": "",
+        "duties": "",
+        "status": "群众",
+        "rutuanTime": "",
+        "roomNumber": "",
+        "rd_applyTime": "",
+        "tuiyouTime": "",
+        "positiveTime": "",
+        "preObjectTime": "",
+        "preMemberTime": "",
+        "partyMemberTime": "",
+        "partyMembrtType": "",
+        "awards": [],
+        "teacher_one": "",
+        "teacher_two": "",
+        "classRank": [],
+        "vulHours": 0,
+        "vulScores": 190
+      },
+      {
+        "_id": "65671ceddf048ea33bd244e5",
+        "studentId": "2209105053",
+        "idCard": "",
+        "username": "陈世杰",
+        "avatarUrl": "file:///E:/Saved Pictures/证件照.jpg",
+        "birthday": "",
+        "age": "",
+        "partyCommittee": "",
+        "partyBranch": "计算机第一党支部",
+        "college": "电子与信息工程学院",
+        "class": "22软件3班",
+        "nativePlace": "",
+        "nation": "",
+        "duties": "",
+        "status": "群众",
+        "rutuanTime": "",
+        "roomNumber": "",
+        "rd_applyTime": "",
+        "tuiyouTime": "",
+        "positiveTime": "",
+        "preObjectTime": "",
+        "preMemberTime": "",
+        "partyMemberTime": "",
+        "partyMembrtType": "",
+        "awards": [],
+        "teacher_one": "",
+        "teacher_two": "",
+        "classRank": [],
+        "student_uid": "1230131736033"
+      },
+      {
+        "_id": "65671ceddf048ea33bd244e7",
+        "studentId": "2209105055",
+        "idCard": "",
+        "username": "陈柏伟",
+        "avatarUrl": "file:///E:/Saved Pictures/证件照.jpg",
+        "birthday": "",
+        "age": "",
+        "partyCommittee": "",
+        "partyBranch": "计算机第二党支部",
+        "college": "电子与信息工程学院",
+        "class": "22软件5班",
+        "nativePlace": "",
+        "nation": "",
+        "duties": "",
+        "status": "群众",
+        "rutuanTime": "",
+        "roomNumber": "",
+        "rd_applyTime": "",
+        "tuiyouTime": "",
+        "positiveTime": "",
+        "preObjectTime": "",
+        "preMemberTime": "",
+        "partyMemberTime": "",
+        "partyMembrtType": "",
+        "awards": [],
+        "teacher_one": "",
+        "teacher_two": "",
+        "classRank": []
+      },
+      {
+        "_id": "65671ceddf048ea33bd244e8",
+        "studentId": "2209105056",
+        "idCard": "",
+        "username": "王琼",
+        "avatarUrl": "file:///E:/Saved Pictures/证件照.jpg",
+        "birthday": "",
+        "age": "",
+        "partyCommittee": "",
+        "partyBranch": "",
+        "college": "电子与信息工程学院",
+        "class": "22软件6班",
+        "nativePlace": "",
+        "nation": "",
+        "duties": "",
+        "status": "群众",
+        "rutuanTime": "",
+        "roomNumber": "",
+        "rd_applyTime": "",
+        "tuiyouTime": "",
+        "positiveTime": "",
+        "preObjectTime": "",
+        "preMemberTime": "",
+        "partyMemberTime": "",
+        "partyMembrtType": "",
+        "awards": [],
+        "teacher_one": "",
+        "teacher_two": "",
+        "classRank": []
+      },
+      {
+        "_id": "65671ceddf048ea33bd244e9",
+        "studentId": "2209105057",
+        "idCard": "",
+        "username": "黄晨曦",
+        "avatarUrl": "file:///E:/Saved Pictures/证件照.jpg",
+        "birthday": "",
+        "age": "",
+        "partyCommittee": "",
+        "partyBranch": "计算机第三党支部",
+        "college": "电子与信息工程学院",
+        "class": "22软件7班",
+        "nativePlace": "",
+        "nation": "",
+        "duties": "",
+        "status": "群众",
+        "rutuanTime": "",
+        "roomNumber": "",
+        "rd_applyTime": "",
+        "tuiyouTime": "",
+        "positiveTime": "",
+        "preObjectTime": "",
+        "preMemberTime": "",
+        "partyMemberTime": "",
+        "partyMembrtType": "",
+        "awards": [],
+        "teacher_one": "",
+        "teacher_two": "",
+        "classRank": []
+      },
+      {
+        "_id": "65671ceddf048ea33bd244ea",
+        "studentId": "2209105058",
+        "idCard": "",
+        "username": "李志",
+        "avatarUrl": "file:///E:/Saved Pictures/证件照.jpg",
+        "birthday": "",
+        "age": "",
+        "partyCommittee": "",
+        "partyBranch": "电子第一党支部",
+        "college": "电子与信息工程学院",
+        "class": "22软件8班",
+        "nativePlace": "",
+        "nation": "",
+        "duties": "",
+        "status": "群众",
+        "rutuanTime": "",
+        "roomNumber": "",
+        "rd_applyTime": "",
+        "tuiyouTime": "",
+        "positiveTime": "",
+        "preObjectTime": "",
+        "preMemberTime": "",
+        "partyMemberTime": "",
+        "partyMembrtType": "",
+        "awards": [],
+        "teacher_one": "",
+        "teacher_two": "",
+        "classRank": []
+      },
+      {
+        "_id": "65671ceddf048ea33bd244e6",
+        "studentId": "2209105060",
+        "idCard": "",
+        "username": "陆思程",
+        "avatarUrl": "file:///E:/Saved Pictures/证件照.jpg",
+        "birthday": "",
+        "age": "",
+        "partyCommittee": "",
+        "partyBranch": "电子第二党支部",
+        "college": "电子与信息工程学院",
+        "class": "22软件4班",
+        "nativePlace": "",
+        "nation": "",
+        "duties": "",
+        "status": "群众",
+        "rutuanTime": "",
+        "roomNumber": "",
+        "rd_applyTime": "",
+        "tuiyouTime": "",
+        "positiveTime": "",
+        "preObjectTime": "",
+        "preMemberTime": "",
+        "partyMemberTime": "",
+        "partyMembrtType": "",
+        "awards": [],
+        "teacher_one": "",
+        "teacher_two": "",
+        "classRank": []
+      }
+    ],
+    "error": null,
+    "extra": null
+  },
+  "findOneStudent-back": {
+    "msg": "SUCCESS",
+    "data": [
+      {
+        "_id": "65671ceddf048ea33bd244e4",
+        "studentId": "2209105057",
+        "student_uid": "1695562533053",
+        "idCard": "",
+        "username": "周佳欣",
+        "avatarUrl": "file:///E:/Saved Pictures/证件照.jpg",
+        "birthday": "",
+        "age": "",
+        "partyCommittee": "",
+        "partyBranch": "计算机第一党支部",
+        "college": "电子与信息工程学院",
+        "class": "22软件2班",
+        "nativePlace": "",
+        "nation": "",
+        "duties": "",
+        "status": "群众",
+        "rutuanTime": "",
+        "roomNumber": "",
+        "rd_applyTime": "",
+        "tuiyouTime": "",
+        "positiveTime": "",
+        "preObjectTime": "",
+        "preMemberTime": "",
+        "partyMemberTime": "",
+        "partyMembrtType": "",
+        "awards": [],
+        "teacher_one": "",
+        "teacher_two": "",
+        "classRank": [],
+        "vulHours": 0,
+        "vulScores": 190
+      },
+      {
+        "_id": "65671ceddf048ea33bd244e5",
+        "studentId": "2209105053",
+        "idCard": "",
+        "username": "陈世杰",
+        "avatarUrl": "file:///E:/Saved Pictures/证件照.jpg",
+        "birthday": "",
+        "age": "",
+        "partyCommittee": "",
+        "partyBranch": "计算机第一党支部",
+        "college": "电子与信息工程学院",
+        "class": "22软件3班",
+        "nativePlace": "",
+        "nation": "",
+        "duties": "",
+        "status": "群众",
+        "rutuanTime": "",
+        "roomNumber": "",
+        "rd_applyTime": "",
+        "tuiyouTime": "",
+        "positiveTime": "",
+        "preObjectTime": "",
+        "preMemberTime": "",
+        "partyMemberTime": "",
+        "partyMembrtType": "",
+        "awards": [],
+        "teacher_one": "",
+        "teacher_two": "",
+        "classRank": [],
+        "student_uid": "1230131736033"
+      },
+      {
+        "_id": "65671ceddf048ea33bd244e7",
+        "studentId": "2209105055",
+        "idCard": "",
+        "username": "陈柏伟",
+        "avatarUrl": "file:///E:/Saved Pictures/证件照.jpg",
+        "birthday": "",
+        "age": "",
+        "partyCommittee": "",
+        "partyBranch": "计算机第二党支部",
+        "college": "电子与信息工程学院",
+        "class": "22软件5班",
+        "nativePlace": "",
+        "nation": "",
+        "duties": "",
+        "status": "群众",
+        "rutuanTime": "",
+        "roomNumber": "",
+        "rd_applyTime": "",
+        "tuiyouTime": "",
+        "positiveTime": "",
+        "preObjectTime": "",
+        "preMemberTime": "",
+        "partyMemberTime": "",
+        "partyMembrtType": "",
+        "awards": [],
+        "teacher_one": "",
+        "teacher_two": "",
+        "classRank": []
+      },
+      {
+        "_id": "65671ceddf048ea33bd244e8",
+        "studentId": "2209105056",
+        "idCard": "",
+        "username": "王琼",
+        "avatarUrl": "file:///E:/Saved Pictures/证件照.jpg",
+        "birthday": "",
+        "age": "",
+        "partyCommittee": "",
+        "partyBranch": "",
+        "college": "电子与信息工程学院",
+        "class": "22软件6班",
+        "nativePlace": "",
+        "nation": "",
+        "duties": "",
+        "status": "群众",
+        "rutuanTime": "",
+        "roomNumber": "",
+        "rd_applyTime": "",
+        "tuiyouTime": "",
+        "positiveTime": "",
+        "preObjectTime": "",
+        "preMemberTime": "",
+        "partyMemberTime": "",
+        "partyMembrtType": "",
+        "awards": [],
+        "teacher_one": "",
+        "teacher_two": "",
+        "classRank": []
+      },
+      {
+        "_id": "65671ceddf048ea33bd244e9",
+        "studentId": "2209105057",
+        "idCard": "",
+        "username": "黄晨曦",
+        "avatarUrl": "file:///E:/Saved Pictures/证件照.jpg",
+        "birthday": "",
+        "age": "",
+        "partyCommittee": "",
+        "partyBranch": "计算机第三党支部",
+        "college": "电子与信息工程学院",
+        "class": "22软件7班",
+        "nativePlace": "",
+        "nation": "",
+        "duties": "",
+        "status": "群众",
+        "rutuanTime": "",
+        "roomNumber": "",
+        "rd_applyTime": "",
+        "tuiyouTime": "",
+        "positiveTime": "",
+        "preObjectTime": "",
+        "preMemberTime": "",
+        "partyMemberTime": "",
+        "partyMembrtType": "",
+        "awards": [],
+        "teacher_one": "",
+        "teacher_two": "",
+        "classRank": []
+      },
+      {
+        "_id": "65671ceddf048ea33bd244ea",
+        "studentId": "2209105058",
+        "idCard": "",
+        "username": "李志",
+        "avatarUrl": "file:///E:/Saved Pictures/证件照.jpg",
+        "birthday": "",
+        "age": "",
+        "partyCommittee": "",
+        "partyBranch": "电子第一党支部",
+        "college": "电子与信息工程学院",
+        "class": "22软件8班",
+        "nativePlace": "",
+        "nation": "",
+        "duties": "",
+        "status": "群众",
+        "rutuanTime": "",
+        "roomNumber": "",
+        "rd_applyTime": "",
+        "tuiyouTime": "",
+        "positiveTime": "",
+        "preObjectTime": "",
+        "preMemberTime": "",
+        "partyMemberTime": "",
+        "partyMembrtType": "",
+        "awards": [],
+        "teacher_one": "",
+        "teacher_two": "",
+        "classRank": []
+      },
+      {
+        "_id": "65671ceddf048ea33bd244e6",
+        "studentId": "2209105060",
+        "idCard": "",
+        "username": "陆思程",
+        "avatarUrl": "file:///E:/Saved Pictures/证件照.jpg",
+        "birthday": "",
+        "age": "",
+        "partyCommittee": "",
+        "partyBranch": "电子第二党支部",
+        "college": "电子与信息工程学院",
+        "class": "22软件4班",
+        "nativePlace": "",
+        "nation": "",
+        "duties": "",
+        "status": "群众",
+        "rutuanTime": "",
+        "roomNumber": "",
+        "rd_applyTime": "",
+        "tuiyouTime": "",
+        "positiveTime": "",
+        "preObjectTime": "",
+        "preMemberTime": "",
+        "partyMemberTime": "",
+        "partyMembrtType": "",
+        "awards": [],
+        "teacher_one": "",
+        "teacher_two": "",
+        "classRank": []
+      }
+    ],
+    "error": null,
+    "extra": null
+  },
+  "allQuestion": {
+    "msg": "SUCCESS",
+    "data": [
+      {
+        "_id": "65a226e6521ee2299e663109",
+        "ExamQuestion": "党在社会主义建设初期形成的正确的理论原则和经验总结，是毛泽东思想科学体系中的重要内容，是毛泽东思想在社会主义建设时期的新发展！",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1"
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2"
+          }
+        ],
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "党在社会主义建设初期形成的正确的理论原则和经验总结，是毛泽东思想科学体系中的重要内容，是毛泽东思想在社会主义建设时期的新发展。。因此这题是对的。",
+        "store_check_id": [],
+        "picture": "",
+        "__v": 0
+      },
+      {
+        "_id": "65b35a1f66111995165ad1c2",
+        "ExamQuestion": "党在社会主义建设初期形成的正确的理论原则和经验总结，是毛泽东思想科学体系中的重要内容，是毛泽东思想在社会主义建设时期的新发展。",
+        "type": "101",
+        "options": [
+          {
+            "_id": "a3164b40-1876-4d50-9c1a-c2b947e5cd76",
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "whetherSubmit": false
+          },
+          {
+            "_id": "4591b284-6f5c-438e-8b54-479e1e114527",
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "whetherSubmit": false
+          }
+        ],
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "党在社会主义建设初期形成的正确的理论原则和经验总结，是毛泽东思想科学体系中的重要内容，是毛泽东思想在社会主义建设时期的新发展。。因此这题是对的。",
+        "store_check_id": [],
+        "picture": "",
+        "__v": 0
+      }
+    ],
+    "error": null,
+    "extra": null
+  },
+  "addQuestion": {
+    "msg": "SUCCESS",
+    "data": null,
+    "error": null,
+    "extra": null
+  },
+  "deleteQuestion": {
+    "msg": "SUCCESS",
+    "data": null,
+    "error": null,
+    "extra": null
+  },
+  "changeQuestionn": {
+    "msg": "SUCCESS",
+    "data": {
+      "_id": "65a226e6521ee2299e663109",
+      "ExamQuestion": "党在社会主义建设初期形成的正确的理论原则和经验总结，是毛泽东思想科学体系中的重要内容，是毛泽东思想在社会主义建设时期的新发展！",
+      "type": "101",
+      "options": [
+        {
+          "select": "正确",
+          "select_id": "MM1"
+        },
+        {
+          "select": "错误",
+          "select_id": "MM2"
+        }
+      ],
+      "correct_id": [
+        "MM1"
+      ],
+      "answered": false,
+      "correct_answer": [],
+      "analyze": "党在社会主义建设初期形成的正确的理论原则和经验总结，是毛泽东思想科学体系中的重要内容，是毛泽东思想在社会主义建设时期的新发展。。因此这题是对的。",
+      "store_check_id": [],
+      "picture": "",
+      "__v": 0
+    },
+    "error": null,
+    "extra": null
+  },
+  "findQuestion": {
+    "msg": "SUCCESS",
+    "data": [
+      {
+        "_id": "65a226e6521ee2299e663109",
+        "ExamQuestion": "党在社会主义建设初期形成的正确的理论原则和经验总结，是毛泽东思想科学体系中的重要内容，是毛泽东思想在社会主义建设时期的新发展！",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1"
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2"
+          }
+        ],
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "党在社会主义建设初期形成的正确的理论原则和经验总结，是毛泽东思想科学体系中的重要内容，是毛泽东思想在社会主义建设时期的新发展。。因此这题是对的。",
+        "store_check_id": [],
+        "picture": "",
+        "__v": 0
+      },
+      {
+        "_id": "65a231e9511c1414655a18da",
+        "ExamQuestion": "机动车行至泥泞或翻浆路段时，要停车观察，选择平整、坚实或有车辙的路段缓慢通过。",
+        "type": "101",
+        "options": [
+          {
+            "_id": "09f2d95d-fe50-4df1-8c4a-adecf4681652",
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "whetherSubmit": false
+          },
+          {
+            "_id": "4b699061-7607-4876-816b-b4574d18489d",
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "whetherSubmit": false
+          }
+        ],
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "停车观察是在通过泥泞或翻浆路段之前的操作，也就是说看清楚路况之后再行驶。遇到这类情况，大家都知道要走好走的路，那么什么样的路是好走的？就是平整、坚实的或是有车辙的。这三种是并列的，并不是一定要同时满足这三个条件，可以任选其一。因此这题是对的。",
+        "store_check_id": [],
+        "picture": "",
+        "__v": 0
+      },
+      {
+        "_id": "65a231ea511c1414655a18dc",
+        "ExamQuestion": "机动车行至泥泞或翻浆路段时，要停车观察，选择平整、坚实或有车辙的路段缓慢通过。",
+        "type": "101",
+        "options": [
+          {
+            "_id": "7f4aa122-088d-4170-aa07-12bdecb8867d",
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "whetherSubmit": false
+          },
+          {
+            "_id": "8a4c542b-6390-4d6b-9802-3a51211f7996",
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "whetherSubmit": false
+          }
+        ],
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "停车观察是在通过泥泞或翻浆路段之前的操作，也就是说看清楚路况之后再行驶。遇到这类情况，大家都知道要走好走的路，那么什么样的路是好走的？就是平整、坚实的或是有车辙的。这三种是并列的，并不是一定要同时满足这三个条件，可以任选其一。因此这题是对的。",
+        "store_check_id": [],
+        "picture": "",
+        "__v": 0
+      },
+      {
+        "_id": "65a231ea511c1414655a18de",
+        "ExamQuestion": "机动车行至泥泞或翻浆路段时，要停车观察，选择平整、坚实或有车辙的路段缓慢通过。",
+        "type": "101",
+        "options": [
+          {
+            "_id": "bb080f0d-8aca-44e3-84fa-a0531d4ab5da",
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "whetherSubmit": false
+          },
+          {
+            "_id": "1b3f1daa-f98f-4198-a8e1-492b0464aed1",
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "whetherSubmit": false
+          }
+        ],
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "停车观察是在通过泥泞或翻浆路段之前的操作，也就是说看清楚路况之后再行驶。遇到这类情况，大家都知道要走好走的路，那么什么样的路是好走的？就是平整、坚实的或是有车辙的。这三种是并列的，并不是一定要同时满足这三个条件，可以任选其一。因此这题是对的。",
+        "store_check_id": [],
+        "picture": "",
+        "__v": 0
+      },
+      {
+        "_id": "65a231eb511c1414655a18e0",
+        "ExamQuestion": "机动车行至泥泞或翻浆路段时，要停车观察，选择平整、坚实或有车辙的路段缓慢通过。",
+        "type": "101",
+        "options": [
+          {
+            "_id": "38e8f969-bc22-4805-b36c-2c5748a02f94",
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "whetherSubmit": false
+          },
+          {
+            "_id": "dce4e52a-8bf9-4eb8-8389-f57ce1e04a6d",
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "whetherSubmit": false
+          }
+        ],
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "停车观察是在通过泥泞或翻浆路段之前的操作，也就是说看清楚路况之后再行驶。遇到这类情况，大家都知道要走好走的路，那么什么样的路是好走的？就是平整、坚实的或是有车辙的。这三种是并列的，并不是一定要同时满足这三个条件，可以任选其一。因此这题是对的。",
+        "store_check_id": [],
+        "picture": "",
+        "__v": 0
+      },
+      {
+        "_id": "65a231ec511c1414655a18e2",
+        "ExamQuestion": "机动车行至泥泞或翻浆路段时，要停车观察，选择平整、坚实或有车辙的路段缓慢通过。",
+        "type": "101",
+        "options": [
+          {
+            "_id": "df3d89aa-27fa-4b68-882c-ae066153bd8c",
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "whetherSubmit": false
+          },
+          {
+            "_id": "dff31dda-a37c-4258-8f95-df7055b0fe40",
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "whetherSubmit": false
+          }
+        ],
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "停车观察是在通过泥泞或翻浆路段之前的操作，也就是说看清楚路况之后再行驶。遇到这类情况，大家都知道要走好走的路，那么什么样的路是好走的？就是平整、坚实的或是有车辙的。这三种是并列的，并不是一定要同时满足这三个条件，可以任选其一。因此这题是对的。",
+        "store_check_id": [],
+        "picture": "",
+        "__v": 0
+      },
+      {
+        "_id": "6513360765869ab5a4b05bb5",
+        "ExamQuestion": "机动车行至泥泞或翻浆路段时，要停车观察，选择平整、坚实或有车辙的路段缓慢通过。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bb6",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bb7",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "停车观察是在通过泥泞或翻浆路段之前的操作，也就是说看清楚路况之后再行驶。遇到这类情况，大家都知道要走好走的路，那么什么样的路是好走的？就是平整、坚实的或是有车辙的。这三种是并列的，并不是一定要同时满足这三个条件，可以任选其一。因此这题是对的。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bb8",
+        "ExamQuestion": "出车前检查冷却液、发动机机油、燃油等是否有渗漏现象。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bb9",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bba",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "驾驶机动车上道路行驶前，驾驶人要对机动车的安全技术性能进行认真检查，不得驾驶安全设施不全或者机件不符合技术标准等具有安全隐患的机动车，确保出行前一定都正常。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bbb",
+        "ExamQuestion": "在泥泞路段行车容易出现什么现象",
+        "type": "101",
+        "options": [
+          {
+            "select": "车轮侧滑",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bbc",
+            "whetherSubmit": false
+          },
+          {
+            "select": "方向失控",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bbd",
+            "whetherSubmit": false
+          },
+          {
+            "select": "行驶阻力大",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bbe",
+            "whetherSubmit": false
+          },
+          {
+            "select": "机动车颠簸",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bbf",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "泥泞路段路面行驶阻力小，凹凸不平的路面机动车才会颠簸，横风时方向才会失控",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bc0",
+        "ExamQuestion": "摩托车前轮爆胎时，会产生严重的左右摆动，驾驶人应立即减小油门，紧握转向把，逐级减挡，减速停车。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bc1",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bc2",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "此时若迅速踩制动，很有可能导致轮胎抱死，这样很容易发生危险。正确做法是立即收油，紧握转向把，采取逐级减档的方式减速，轻踏制动踏板直至停车。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bc3",
+        "ExamQuestion": "在雨天湿滑路面行车要尽量避免紧急制动。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bc4",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bc5",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "由于湿滑路面很易滑，若是采取紧急制动，容易发生侧滑或横滑，因此本题正确。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bc6",
+        "ExamQuestion": "机动车通过急转弯路段时，在机动车较少的情况下可以超车。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bc7",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bc8",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM2"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "《道路交通安全法》第四十三条：同车道行驶的机动车，后车应当与前车保持足以采取紧急制动措施的安全距离。有下列情形之一的，不得超车：行经铁路道口、交叉路口、窄桥、弯道、陡坡、隧道、人行横道、市区交通流量大的路段等没有超车条件的。通过隧道，铁路道口，急转弯路段，窄路，窄桥或遇前方道路上有车辆掉头时，不得超车。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bc9",
+        "ExamQuestion": "驾驶人频繁变更车道不属于驾驶陋习。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bca",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bcb",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM2"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "变更车道不能太过频繁，否则会影响正常交通，属于陋习，因此本题错误。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bcc",
+        "ExamQuestion": "大零天气能见度低，开启远光灯会提高能见度。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bcd",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bce",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM2"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "大雾天气应该开启雾灯和危险警示闪光灯。开启远光灯会引起折射，反而更加不易看清路况。因此本题选择“错误”。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bcf",
+        "ExamQuestion": "机动车行经交叉路口，不得超车。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bd0",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bd1",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "《道路交通安全法》第四十三条：同车道行驶的机动车，后车应当与前车保持足以采取紧急制动措施的安全距离。有下列情形之一的，不得超车：行经铁路道口、交叉路口、窄桥、弯道、陡坡、隧道、人行横道、市区交通流量大的路段等没有超车条件的。所以此题选择“正确”。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bd2",
+        "ExamQuestion": "行车中不开转向灯强行并线是违法行为。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bd3",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bd4",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "《道路交通安全法实施条例》第五十七条：机动车应当按照下列规定使用转向灯：向左转弯、向左变更车道、准备超车、驶离停车地点或者掉头时，应当提前开启左转向灯；向石转弯、向右变更车道、超车完毕驶回原车道、靠路边停车时，应当提前开启右转向。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bd5",
+        "ExamQuestion": "驾驶人发现轮胎漏气，将摩托车驶离主车道时，不要采用紧急制动，以免造成翻车或后车制动不及时导致追尾事故。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bd6",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bd7",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "连续轻踏制动，缓慢将车停下，更换轮胎。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bd8",
+        "ExamQuestion": "摩托车爆胎后，驾驶人在尚末控制住车速前，不要冒险使用制动器停车，以避免摩托车横甩发生更大的险情。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bd9",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bda",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "爆胎后，驾驶人在尚未控制住车速的时候，紧急制动，可能导致横甩或者翻车。正确的做法应该是紧握转向把，控制方向，极力保持直线行驶，利用发动机制动，减档或抢档减速，然后轻踏制动踏板缓慢减速，平稳靠边停车。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bdb",
+        "ExamQuestion": "侧身乘坐摩托车极不安全，一旦发生侧滑，由于重心不稳，会被甩出造成伤亡。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bdc",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bdd",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "侧身坐摩托车，重心偏向一边，不能保证两边的平衡，一旦出现侧滑，很容易被甩出，造成伤亡。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bde",
+        "ExamQuestion": "摩托车涉水后，制动器的制动效果不会改変。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bdf",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05be0",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM2"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "摩托车经过积水道路后，制动器可能会进水，制动效果逐渐变差，此时极易发生事故，直接影响到行车安全。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05be1",
+        "ExamQuestion": "在雪天临时停车要开启前照灯和雾灯。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05be2",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05be3",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM2"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "雪天在道路上临时停车，应当开启危险报警闪光灯，用以提醒其他车辆注意。因此本题错误。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05be4",
+        "ExamQuestion": "兩天超车要开启前照灯，连续鸣喇叭迅速超越。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05be5",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05be6",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM2"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "这种天气里面能见度低，车辆应该慢行，就算要超车，也不能连续鸣喇叭，而且要确保安全的情况下超车。所以此题的关键在“迅速”两宇。因此本题错误。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05be7",
+        "ExamQuestion": "涉水驾驶要保持车速均匀有足够动力，避免停留。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05be8",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05be9",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "在水中行驶是有一定阳力，若是动力不够，很有可能在水中停下来，停下来之后很容易熄火。因此本题选择“正确”。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bea",
+        "ExamQuestion": "转弯时速度过快，摩托车容易冲出弯道或侧滑。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05beb",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bec",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "转弯速度越快，角速度越大，离心力也越大，这样一来车子的抓地力就变小了，此时就容易发生侧滑。因此本题选择“正确”。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bed",
+        "ExamQuestion": "驾驶机动车遇到成群青少年绕过路边停放的机动车时，要主动减速让行。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bee",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bef",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "注意题千“成群青少年绕过路边停放的机动车”，并不是成群青少年横穿马路。绕过路边停放的机动车，说明这群青少年仍在路边附近，只是为了绕过机动车而占据了一部分机动车道。遇到这种情况，要随时注意出现突发状況，因此驾驶员主动减速让行没有问题，不必停车让行。所以本题选择正确。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bf0",
+        "ExamQuestion": "王某饮酒后驾驶摩托车回家途中，车辆不慎驶离路面后侧翻，王某倒地受伤、车辆受损。鉴定显示，王某血液中乙醇含量为 120mg/100ml。这起事故中王某的主要违法行为是醉酒后驾驶机动车。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bf1",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bf2",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "《车辆驾驶人员血液、呼气酒精含量阈值与检验标准》规定：饮酒后驾车是指车辆驾驶人员血液酒精含量阈值大于或者等于 20mg/100ml,小于 80mg/100ml的驾驶行为。醉酒后驾车是指车辆驾驶人员血液酒精含量阈值大于或者等于 80mg/100ml的驾驶行为。王某血液中乙醇含量为 120mg/100ml， 属于醉酒后驾车。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bf3",
+        "ExamQuestion": "冰雪路面处理情况不能使用紧急制动，但可采取急转向的方法躲避。",
+        "type": "101",
+        "options": [
+          {
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bf4",
+            "whetherSubmit": false
+          },
+          {
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bf5",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM2"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "冰雪路面行驶过程中不能采取紧急制动或是急转方向的方法，这是因为冰雪路面易滑，这样做容易造成车子侧滑或侧翻。因此本题错误。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bf6",
+        "ExamQuestion": "轮胎气压过低时，高速行驶可能导致什么结果？",
+        "type": "101",
+        "options": [
+          {
+            "select": "行驶阻力减小",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bf7",
+            "whetherSubmit": false
+          },
+          {
+            "select": "气压不稳",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bf8",
+            "whetherSubmit": false
+          },
+          {
+            "select": "爆胎",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bf9",
+            "whetherSubmit": false
+          },
+          {
+            "select": "气压增高",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bfa",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM3"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "轮胎气压过低，在车子行驶过程中，会让轮胎不正常工作，若是高速行驶的话，产生摩擦之后就很容易发生爆胎了。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05bfb",
+        "ExamQuestion": "驾驶机动车在隧道内发生火灾逃生时，以下做法错误的是什么？",
+        "type": "101",
+        "options": [
+          {
+            "select": "用浸湿的毛巾或衣物等捂住口鼻",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bfc",
+            "whetherSubmit": false
+          },
+          {
+            "select": "按照疏散指示标识指示的方向逃离",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bfd",
+            "whetherSubmit": false
+          },
+          {
+            "select": "立即停车熄火",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bfe",
+            "whetherSubmit": false
+          },
+          {
+            "select": "整理好随车物品后撤离",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05bff",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM4"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "隧道内发生火灾时，立即停车熄火，按照疏散指示标识指示的方向逃离，逃生时浸湿的毛巾或衣物等捂佳口鼻，防止浓烟吸入。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05c00",
+        "ExamQuestion": "驾驶机动车变更车道时，属于交通陋习的是什么行为？",
+        "type": "101",
+        "options": [
+          {
+            "select": "仔细观察后变更车道",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c01",
+            "whetherSubmit": false
+          },
+          {
+            "select": "不得妨碍其他车道正常行驶的车",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c02",
+            "whetherSubmit": false
+          },
+          {
+            "select": "随意并线",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c03",
+            "whetherSubmit": false
+          },
+          {
+            "select": "提前开启转向灯",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c04",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM3"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "注意题目，问的是属于交通陋习的行为。随意并线会影响其他正常行驶的车辆。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05c05",
+        "ExamQuestion": "王某驾驶摩托车发生故障不能行驶，请求李某驾驶小型汽车用软连接装置牵引至修理厂。在行驶途中发生交通事故，造成王某受伤。该起事故中驾驶人的主要违法行为是什么？",
+        "type": "101",
+        "options": [
+          {
+            "select": "非法牵引摩托车",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c06",
+            "whetherSubmit": false
+          },
+          {
+            "select": "超速",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c07",
+            "whetherSubmit": false
+          },
+          {
+            "select": "未按规定车道行驶",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c08",
+            "whetherSubmit": false
+          },
+          {
+            "select": "牵引装置使用错误，应使用连接硬牵引装置",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c09",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "《道路交通安全法实施条例》第六十一条：牵引故障机动车应当遵守下列规定：摩托车不得牵引车辆或者被其他车辆牵引。所以该起事故中驾驶人的主要违法行为是牵引摩托车。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05c0a",
+        "ExamQuestion": "这个标志是何含义？",
+        "type": "101",
+        "options": [
+          {
+            "select": "残疾人专用通道",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c0b",
+            "whetherSubmit": false
+          },
+          {
+            "select": "注意残疾人",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c0c",
+            "whetherSubmit": false
+          },
+          {
+            "select": "残疾人出入口",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c0d",
+            "whetherSubmit": false
+          },
+          {
+            "select": "残疾人休息处",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c0e",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "https://diancan-1252107261.cos.accelerate.myqcloud.com/jiazhao/zhuyicanjiren.jpg",
+        "correct_id": [
+          "MM2"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "黄底标志为警告标志，一看到轮椅我们很容易就联想到残疾人，所以是注意残疾人。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05c0f",
+        "ExamQuestion": "超车时前方机动车不减速、不让道，驾驶人怎么办？",
+        "type": "101",
+        "options": [
+          {
+            "select": "连续鸣喇叭加速超越",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c10",
+            "whetherSubmit": false
+          },
+          {
+            "select": "停止继续超车",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c11",
+            "whetherSubmit": false
+          },
+          {
+            "select": "加速继续超越",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c12",
+            "whetherSubmit": false
+          },
+          {
+            "select": "紧跟其后，伺机再超",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c13",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM2"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "超车时如遇前方车辆不减速、不让道，说明此时不具备超车条件，应该停止继续超车。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05c14",
+        "ExamQuestion": "机动车停车的错误做法是什么？",
+        "type": "101",
+        "options": [
+          {
+            "select": "应当在规定地点停放",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c15",
+            "whetherSubmit": false
+          },
+          {
+            "select": "可以停放在非机动车道上",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c16",
+            "whetherSubmit": false
+          },
+          {
+            "select": "禁止在人行道上停放",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c17",
+            "whetherSubmit": false
+          },
+          {
+            "select": "在道路上临时停车时，不得妨碍其他机动车和行人通行",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c18",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM2"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "注意本题考的是错误的做法，机动车不能停放在非机动车道上，会妨碍到非机动车辆的正常行驶。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05c19",
+        "ExamQuestion": "机动车驶近坡道顶端等影响安全视距的路段时，要如何保证安全？",
+        "type": "101",
+        "options": [
+          {
+            "select": "快速通过",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c1a",
+            "whetherSubmit": false
+          },
+          {
+            "select": "随意通行",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c1b",
+            "whetherSubmit": false
+          },
+          {
+            "select": "使用危险报警闪光灯",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c1c",
+            "whetherSubmit": false
+          },
+          {
+            "select": "减速慢行并鸣喇叭示意",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c1d",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM4"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "注意“影响安全视距的路段”，也就是说在此路段行驶时无法完全掌握路况，因此要减速慢行谨慎小心，同时鸣喇叭告知其他车辆。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05c1e",
+        "ExamQuestion": "摩托车后轮胎爆裂时，驾驶人应当怎样做？",
+        "type": "101",
+        "options": [
+          {
+            "select": "迅速采取制动措施",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c1f",
+            "whetherSubmit": false
+          },
+          {
+            "select": "迅速转动转向把",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c20",
+            "whetherSubmit": false
+          },
+          {
+            "select": "迅速向相反方向转动转向把",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c21",
+            "whetherSubmit": false
+          },
+          {
+            "select": "双手紧握转向把",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c22",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM4"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "爆胎后，方向容易跑偏，这时不宜采取过激的动作。正确的做法是双手紧握方向把、松油门、减挡，直到停下来，切记不要紧急制动。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05c23",
+        "ExamQuestion": "当机动车在湿滑路面上行驶时，路面附着力随着车速的增加如何变化？",
+        "type": "101",
+        "options": [
+          {
+            "select": "没有变化",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c24",
+            "whetherSubmit": false
+          },
+          {
+            "select": "逐渐增大",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c25",
+            "whetherSubmit": false
+          },
+          {
+            "select": "急剧增大",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c26",
+            "whetherSubmit": false
+          },
+          {
+            "select": "急剧减小",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c27",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM4"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "湿滑路面就是路面又湿又滑，车速增加，惯性随之加大，路面附着力会急剧减小。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05c28",
+        "ExamQuestion": "机动车在夜间通过没有交通信号灯控制的交叉路口时，要怎样使用灯光？",
+        "type": "101",
+        "options": [
+          {
+            "select": "交替使用远近光灯示意",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c29",
+            "whetherSubmit": false
+          },
+          {
+            "select": "使用近光灯",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c2a",
+            "whetherSubmit": false
+          },
+          {
+            "select": "使用远光灯",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c2b",
+            "whetherSubmit": false
+          },
+          {
+            "select": "使用危险报警闪光灯",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c2c",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "《道路交通安全法实施条例》 第五十九条：机动车在夜间通过急弯、坡路、拱桥、人行横道或者没有交通信号灯控制的路口时，应当交替使用远近光灯示意。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05c2d",
+        "ExamQuestion": "下列关于使用摩托车制动的错误做法是哪一项？",
+        "type": "101",
+        "options": [
+          {
+            "select": "不能过早使用前制动",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c2e",
+            "whetherSubmit": false
+          },
+          {
+            "select": "先使用后轮制动",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c2f",
+            "whetherSubmit": false
+          },
+          {
+            "select": "先使用前轮制动",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c30",
+            "whetherSubmit": false
+          },
+          {
+            "select": "同时使用前后制动",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c31",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM3"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "看清楚题目，要选择“错误做法”，当然是选择“先使用前轮制动”了。车是往前行驶的，这时使用前轮制动，在惯性的作用下，容易造成翻车，大家要注意安全呀！",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05c32",
+        "ExamQuestion": "王某驾驶两轮摩托车送9岁的儿子上学途中，以20公里/小时的速度在最右侧道路行驶，行驶至榆林子镇马槽沟村处，与李某驾驶的小型汽车发生碰撞，事故造成2人受伤，该起事故中摩托车驾驶人的主要违法行为是什么？",
+        "type": "101",
+        "options": [
+          {
+            "select": "超员",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c33",
+            "whetherSubmit": false
+          },
+          {
+            "select": "非法搭载末满12周岁末成年人",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c34",
+            "whetherSubmit": false
+          },
+          {
+            "select": "未按规定车道行驶",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c35",
+            "whetherSubmit": false
+          },
+          {
+            "select": "超速",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c36",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM2"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "《道路交通安全法实施条例》第五十五条：摩托车后座不得乘坐未满12周岁的未成年人，轻便摩托车不得载人。所以王某的主要违法行为是非法搭载未满12周岁未成年人。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05c37",
+        "ExamQuestion": "下列哪一项防护装备是摩托车驾驶人按规定应当佩戴的？",
+        "type": "101",
+        "options": [
+          {
+            "select": "眼镜",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c38",
+            "whetherSubmit": false
+          },
+          {
+            "select": "手套",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c39",
+            "whetherSubmit": false
+          },
+          {
+            "select": "安全头盔",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c3a",
+            "whetherSubmit": false
+          },
+          {
+            "select": "安全护膝",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c3b",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM3"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "驾驶摩托车必备安全头盔，否则扣一分",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05c3c",
+        "ExamQuestion": "驾驶机动车在兩天遇到撑雨伞和穿雨衣的行人在路边行走怎样礼让？",
+        "type": "101",
+        "options": [
+          {
+            "select": "加速从左侧绕行",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c3d",
+            "whetherSubmit": false
+          },
+          {
+            "select": "临近呜喇叭示意",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c3e",
+            "whetherSubmit": false
+          },
+          {
+            "select": "提前减速鸣喇叭",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c3f",
+            "whetherSubmit": false
+          },
+          {
+            "select": "以正常速度行驶",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c40",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM3"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "首先下兩天本来视野就不好，其次行人这样的着装很难在第一时间意识到周围的交通状況变化。因此驾驶人在遇到此类行人时，应当先鸣喇叭示意，再以较低的车速通过。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05c41",
+        "ExamQuestion": "这个标志是何含义？",
+        "type": "101",
+        "options": [
+          {
+            "select": "向左绕行",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c42",
+            "whetherSubmit": false
+          },
+          {
+            "select": "连续弯路",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c43",
+            "whetherSubmit": false
+          },
+          {
+            "select": "向右急转弯",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c44",
+            "whetherSubmit": false
+          },
+          {
+            "select": "向左急转弯",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c45",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "https://diancan-1252107261.cos.accelerate.myqcloud.com/jiazhao/xiangzuojizhuanwan.jpg",
+        "correct_id": [
+          "MM4"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "向左急转弯：向左急弯路标志设在左急转弯的道路前方适当位置。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05c46",
+        "ExamQuestion": "救助有害气体中毒伤员，首先采取的措施是什么？",
+        "type": "101",
+        "options": [
+          {
+            "select": "将伤员转移到有新鲜空气的地方",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c47",
+            "whetherSubmit": false
+          },
+          {
+            "select": "进行人工呼吸",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c48",
+            "whetherSubmit": false
+          },
+          {
+            "select": "采取保暖措施",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c49",
+            "whetherSubmit": false
+          },
+          {
+            "select": "进行胸外心脏按压",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c4a",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "题目说明是“有害气体中毒伤员”，而空气新鲜的地方可以让人体的呼吸管道起畅通的作用。因此应将这类伤员转移到有新鲜空气的地方，让伤员呼吸新鲜空气，减少有害气体的伤害，再采取其他措施。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05c4b",
+        "ExamQuestion": "下列关于驾驶摩托车的说法正确的是哪一项？",
+        "type": "101",
+        "options": [
+          {
+            "select": "可以随意操作转向把",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c4c",
+            "whetherSubmit": false
+          },
+          {
+            "select": "严禁双手同时离开转向把",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c4d",
+            "whetherSubmit": false
+          },
+          {
+            "select": "双手可以临时离开转向把",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c4e",
+            "whetherSubmit": false
+          },
+          {
+            "select": "严禁原地转动转向把",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c4f",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM2"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "《道路交通安全法实施条例》第六十二条：驾驶机动车不得有下列行为：驾驶摩托车手离车把或者在车把上悬挂物品。所以选“严禁双手同时离开转向把”。",
+        "store_check_id": []
+      },
+      {
+        "_id": "6513360765869ab5a4b05c50",
+        "ExamQuestion": "夜间驾驶机动车在照明条件良好的路段跟车行驶怎样使用灯光？",
+        "type": "101",
+        "options": [
+          {
+            "select": "关闭所有车灯",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c51",
+            "whetherSubmit": false
+          },
+          {
+            "select": "使用近光灯",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c52",
+            "whetherSubmit": false
+          },
+          {
+            "select": "关闭前照灯",
+            "select_id": "MM3",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c53",
+            "whetherSubmit": false
+          },
+          {
+            "select": "使用远光灯",
+            "select_id": "MM4",
+            "icon_url": "",
+            "isCorrect": false,
+            "_id": "6513360765869ab5a4b05c54",
+            "whetherSubmit": false
+          }
+        ],
+        "picture": "",
+        "correct_id": [
+          "MM2"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "《道路交通安全法实施条例》第四十八条：在没有中心隔离设施或者没有中心线的道路上，机动车遇相对方向来车时应当遵守下列规定：夜间会车应当在距相对方向来车150米以外改用近光灯，在窄路、窄桥与非机动车会车时应当使用近光灯。",
+        "store_check_id": []
+      },
+      {
+        "_id": "65b35a1f66111995165ad1c2",
+        "ExamQuestion": "党在社会主义建设初期形成的正确的理论原则和经验总结，是毛泽东思想科学体系中的重要内容，是毛泽东思想在社会主义建设时期的新发展。",
+        "type": "101",
+        "options": [
+          {
+            "_id": "a3164b40-1876-4d50-9c1a-c2b947e5cd76",
+            "select": "正确",
+            "select_id": "MM1",
+            "icon_url": "",
+            "isCorrect": false,
+            "whetherSubmit": false
+          },
+          {
+            "_id": "4591b284-6f5c-438e-8b54-479e1e114527",
+            "select": "错误",
+            "select_id": "MM2",
+            "icon_url": "",
+            "isCorrect": false,
+            "whetherSubmit": false
+          }
+        ],
+        "correct_id": [
+          "MM1"
+        ],
+        "answered": false,
+        "correct_answer": [],
+        "analyze": "党在社会主义建设初期形成的正确的理论原则和经验总结，是毛泽东思想科学体系中的重要内容，是毛泽东思想在社会主义建设时期的新发展。。因此这题是对的。",
+        "store_check_id": [],
+        "picture": "",
+        "__v": 0
+      }
+    ],
+    "error": null,
+    "extra": null
+  },
+  "changeQuestion": {
+    "_id": "65a226e6521ee2299e663109",
+    "ExamQuestion": "党在社会主义建设初期形成的正确的理论原则和经验总结，是毛泽东思想科学体系中的重要内容，是毛泽东思想在社会主义建设时期的新发展！",
+    "type": "101",
+    "options": [
+      {
+        "select": "正22",
+        "select_id": "MM1"
+      },
+      {
+        "select": "错误",
+        "select_id": "MM2"
+      }
+    ],
+    "correct_id": [
+      "MM1"
+    ],
+    "answered": false,
+    "correct_answer": [],
+    "analyze": "党在社会主义建设初期形成的正确的理论原则和经验总结，是毛泽东思想科学体系中的重要内容，是毛泽东思想在社会主义建设时期的新发展。。因此这题是对的。",
+    "store_check_id": [],
+    "picture": "",
+    "__v": 0
+  },
+  "get-all-college": {
+    "msg": "SUCCESS",
+    "data": [
+      {
+        "college": "全部"
+      },
+      {
+        "college": "机关党委"
+      },
+      {
+        "college": "直属单位党委"
+      },
+      {
+        "college": "政法学院"
+      },
+      {
+        "college": "马克思主义学院"
+      },
+      {
+        "college": "人文学院"
+      },
+      {
+        "college": "外国语学院"
+      },
+      {
+        "college": "商学院"
+      },
+      {
+        "college": "数理学院"
+      },
+      {
+        "college": "机电工程学院"
+      },
+      {
+        "college": "建筑工程学院"
+      },
+      {
+        "college": "化学化工学院"
+      },
+      {
+        "college": "生命科学学院"
+      },
+      {
+        "college": "电子与信息工程学院"
+      },
+      {
+        "college": "教育学院"
+      },
+      {
+        "college": "艺术学院"
+      },
+      {
+        "college": "体育学院"
+      },
+      {
+        "college": "医学院"
+      },
+      {
+        "college": "附属医院党委"
+      }
+    ],
+    "error": null,
+    "extra": null
+  }
+}
